@@ -1,0 +1,20 @@
+.fa-solid{
+    font-size: 30px;
+}
+i{
+    cursor: pointer;
+}
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+a{  
+    text-decoration: none;
+}
+#btnSubmit{
+    margin-left: 500px;
+}
+/* .container{
+    padding-bottom: 400px;
+} */
+
